@@ -1,0 +1,180 @@
+cv:
+  name: Taimoor Ul Islam
+  label: Research Assistant Professor
+  email: tislam@iastate.edu
+  location: Ames, Iowa, USA
+  image: ""
+  summary: Research Assistant Professor at WiCI, Iowa State University. Wireless systems researcher working on Open RAN, 6G, massive MIMO, and rural broadband. 10+ years of combined industry and research experience in communication and networked systems.
+
+  social_networks:
+    - network: GitHub
+      username: tislam93
+    - network: GitLab
+      username: tislam93
+    - network: LinkedIn
+      username: taimoor-islam
+
+  sections:
+    Education:
+      - institution: Iowa State University
+        location: Ames, Iowa, USA
+        area: Computer Engineering
+        studyType: Ph.D.
+        start_date: 2021-01
+        end_date: 2026-05
+        score: "CGPA 3.76 / 4.00"
+
+      - institution: National University of Sciences and Technology
+        location: Islamabad, Pakistan
+        area: Electrical Engineering
+        studyType: M.S.
+        start_date: 2017
+        end_date: 2020-03
+        score: "CGPA 3.75 / 4.00"
+
+      - institution: National University of Sciences and Technology
+        location: Islamabad, Pakistan
+        area: Electrical Engineering
+        studyType: B.E.
+        start_date: 2010
+        end_date: 2014-06
+        score: "CGPA 3.32 / 4.00 — Gold Medal, best graduating student"
+
+    Experience:
+      - company: Iowa State University, WiCI
+        position: Research Assistant Professor
+        location: Ames, Iowa, USA
+        start_date: 2026-05
+        end_date: present
+        highlights:
+          - Wireless network architecture and Open RAN research
+          - Lead investigator on field deployments for ARA, ACCoRD, ArMORED
+
+      - company: Iowa State University, WiCI
+        position: Research Assistant
+        location: Ames, Iowa, USA
+        start_date: 2021-01
+        end_date: 2026-05
+        highlights:
+          - Designed and deployed the $16M ARA Wireless Living Lab end to end
+          - Lead member at ISU on the $42M ACCoRD Open RAN project
+          - Co-led the $10M ArMORED energy-efficient mMIMO O-RAN project
+          - Led Skylark Wireless mMIMO deployment for URLLC and rural broadband research
+
+      - company: Skylark Wireless, LLC
+        position: Wireless Engineering Intern
+        location: Houston, Texas
+        start_date: 2023-05
+        end_date: 2023-08
+        highlights:
+          - Refined modding APIs for external collaboration on scheduling and grouping
+          - Industry exposure to mMIMO infrastructure and CI/CD practice
+
+      - company: National Telecom Corporation
+        position: Assistant Divisional Engineer
+        location: Islamabad, Pakistan
+        start_date: 2015-07
+        end_date: 2020-12
+        highlights:
+          - Planned, deployed, and troubleshot DSLAMs, switches, routers, BRAS, and other network equipment
+          - Coordinated 3G/4G wireless broadband services with third-party operators
+          - Supervised customer support and ensured 24/7 availability
+
+      - company: Communicators Globe (Pvt) Ltd
+        position: Application Support Engineer
+        location: Islamabad, Pakistan
+        start_date: 2014-08
+        end_date: 2015-07
+        highlights:
+          - Deployed Cisco routers and switches; planned microwave links
+          - Customer training and product documentation
+
+    Funded Projects:
+      - name: ARA Wireless Living Lab
+        funding: "$16M, NSF PAWR"
+        start_date: 2021-06
+        end_date: present
+        summary: Designed, implemented, and deployed the testbed serving advanced wireless research and rural communities.
+
+      - name: ACCoRD
+        funding: "$42M, NTIA NOFO-1"
+        start_date: 2024-01
+        end_date: present
+        summary: Open RAN integration and architecture (O-CU, O-DU, O-RU, core) at the ISU site.
+
+      - name: ArMORED
+        funding: "$10M, NTIA NOFO-2"
+        start_date: 2025-02
+        end_date: present
+        summary: Energy efficiency study, test case design, and field deployment for new O-RU prototype with Skylark Wireless and Eridan Inc.
+
+    Awards:
+      - title: ISU Graduate College Research Excellence Award
+        year: 2026
+      - title: ISU Graduate and Professional Student Senate Research Excellence Award
+        year: 2026
+      - title: Best Paper Award, IEEE NetSoft 2025
+        year: 2025
+      - title: Best Demo Award, MERIF 2024
+        year: 2024
+      - title: Best Paper Award, ACM WiNTECH 2023
+        year: 2023
+      - title: Best Paper Honorable Mention, IEEE FNWF 2023
+        year: 2023
+      - title: Gold Medal, best graduating student, NUST Pakistan
+        year: 2014
+      - title: Roll of Honor, NUST Islamabad Pakistan
+        year: 2014
+
+    Technical Skills:
+      - category: Programming
+        items:
+          - Python
+          - MATLAB
+          - C++
+      - category: Wireless and RAN
+        items:
+          - LTE
+          - 5G NR
+          - O-RAN
+          - massive MIMO
+          - OpenAirInterface
+          - srsRAN
+          - Skylark Wireless
+      - category: Networking and Protocols
+        items:
+          - TCP/IP
+          - BGP / OSPF / MPLS
+          - SDN, VPN, QoS
+          - VLAN, DHCP, DNS, NAT
+      - category: Tools and Platforms
+        items:
+          - OpenStack
+          - Docker / Kubernetes
+          - Ansible
+          - GitLab / CI-CD
+      - category: Hardware and Vendors
+        items:
+          - Juniper, Cisco, Huawei, Dell
+          - NI Ettus, Skylark Wireless
+      - category: Certifications
+        items:
+          - CCNA Route & Switch (2015)
+          - CCNP Route & Switch
+          - MCSE 2012
+
+    Professional Service:
+      - role: Reviewer
+        venues:
+          - IEEE Transactions on Wireless Communications
+          - IEEE INFOCOM
+          - ACM IWQOS
+          - IEEE Communications Magazine
+          - International Journal of Computer and Telecommunications Networking
+          - SN Soft Computing Journal
+          - SN Computer Science Journal
+      - role: Member
+        venues:
+          - IEEE (since 2022)
+          - IEEE Communications Society (since 2022)
+          - ACM (since 2021)

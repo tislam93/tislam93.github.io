@@ -1,0 +1,11 @@
+# Social and contact links shown on the homepage and elsewhere.
+# Order here is the order they appear in the contact strip.
+# See https://github.com/george-gca/jekyll-socials for the list of supported platforms.
+cv_pdf: /assets/pdf/Islam_CV.pdf
+email: tislam@iastate.edu
+orcid_id: 0000-0003-4155-5064
+scholar_userid: TrCMVtUAAAAJ
+linkedin_username: taimoor-islam
+github_username: tislam93
+gitlab_username: tislam93
+rss_icon: true
