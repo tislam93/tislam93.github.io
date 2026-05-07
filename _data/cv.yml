@@ -4,7 +4,11 @@ cv:
   email: tislam@iastate.edu
   location: Ames, Iowa, USA
   image: ""
-  summary: Research Assistant Professor at WiCI, Iowa State University. Wireless systems researcher working on Open RAN, 6G, massive MIMO, and rural broadband. 10+ years of combined industry and research experience in communication and networked systems.
+  summary: >
+    Research Assistant Professor at WiCI, Iowa State University. Wireless systems researcher
+    working on Open RAN, 6G, massive MIMO, and rural broadband. 10+ years of combined industry
+    and research experience in communication and networked systems, with current leadership on
+    over $68M of federally funded next-generation wireless research at Iowa State.
 
   social_networks:
     - network: GitHub
@@ -38,17 +42,17 @@ cv:
         studyType: B.E.
         start_date: 2010
         end_date: 2014-06
-        score: "CGPA 3.32 / 4.00 — Gold Medal, best graduating student"
+        summary: Gold Medal, best graduating student in academics and extracurriculars. Roll of Honor.
 
     Experience:
       - company: Iowa State University, WiCI
         position: Research Assistant Professor
         location: Ames, Iowa, USA
-        start_date: 2026-05
+        start_date: 2026-06
         end_date: present
         highlights:
-          - Wireless network architecture and Open RAN research
-          - Lead investigator on field deployments for ARA, ACCoRD, ArMORED
+          - Wireless network architecture and Open RAN research at the Center for Wireless, Communities and Innovation.
+          - Lead investigator on field deployments for the ARA Wireless Living Lab, ACCoRD, and ArMORED.
 
       - company: Iowa State University, WiCI
         position: Research Assistant
@@ -56,19 +60,20 @@ cv:
         start_date: 2021-01
         end_date: 2026-05
         highlights:
-          - Designed and deployed the $16M ARA Wireless Living Lab end to end
-          - Lead member at ISU on the $42M ACCoRD Open RAN project
-          - Co-led the $10M ArMORED energy-efficient mMIMO O-RAN project
-          - Led Skylark Wireless mMIMO deployment for URLLC and rural broadband research
+          - Designed, implemented, and deployed the $16M ARA wireless living lab end to end, including network planning, equipment selection, vendor coordination, and field rollout.
+          - Lead member at ISU on the $42M NTIA-funded ACCoRD Open RAN project, driving integration and architecture work across O-CU, O-DU, O-RU, and core.
+          - Co-led the $10M NTIA-funded ArMORED project on energy-efficient mMIMO O-RAN with Skylark Wireless and Eridan.
+          - Led the Skylark Wireless mMIMO deployment and built a publicly available API repo (AraMIMO) for PHY/MAC research.
+          - Stood up an OpenStack-based testbed control plane for external researcher access.
 
       - company: Skylark Wireless, LLC
         position: Wireless Engineering Intern
-        location: Houston, Texas
+        location: Houston, Texas, USA
         start_date: 2023-05
         end_date: 2023-08
         highlights:
-          - Refined modding APIs for external collaboration on scheduling and grouping
-          - Industry exposure to mMIMO infrastructure and CI/CD practice
+          - Refined modding APIs for external collaboration on scheduling and grouping algorithms.
+          - Industry exposure to mMIMO infrastructure and CI/CD practice.
 
       - company: National Telecom Corporation
         position: Assistant Divisional Engineer
@@ -76,9 +81,10 @@ cv:
         start_date: 2015-07
         end_date: 2020-12
         highlights:
-          - Planned, deployed, and troubleshot DSLAMs, switches, routers, BRAS, and other network equipment
-          - Coordinated 3G/4G wireless broadband services with third-party operators
-          - Supervised customer support and ensured 24/7 availability
+          - Planned, deployed, and troubleshot DSLAMs, switches, routers, BRAS, and other network equipment serving hundreds of thousands of customers.
+          - Coordinated 3G/4G wireless broadband services with third-party operators.
+          - Supervised customer support staff and ensured 24/7 service availability.
+          - Forecasted internet capacity, managed inventory, and led ground troubleshooting.
 
       - company: Communicators Globe (Pvt) Ltd
         position: Application Support Engineer
@@ -86,54 +92,65 @@ cv:
         start_date: 2014-08
         end_date: 2015-07
         highlights:
-          - Deployed Cisco routers and switches; planned microwave links
-          - Customer training and product documentation
+          - Deployed Cisco routers and switches; planned microwave communication links.
+          - Trained customers and produced product operation manuals.
 
-    Funded Projects:
+    Projects:
       - name: ARA Wireless Living Lab
-        funding: "$16M, NSF PAWR"
-        start_date: 2021-06
-        end_date: present
-        summary: Designed, implemented, and deployed the testbed serving advanced wireless research and rural communities.
+        summary: "$16M, NSF PAWR (2021–present). Designed, implemented, and deployed the testbed serving advanced wireless research and rural communities."
 
       - name: ACCoRD
-        funding: "$42M, NTIA NOFO-1"
-        start_date: 2024-01
-        end_date: present
-        summary: Open RAN integration and architecture (O-CU, O-DU, O-RU, core) at the ISU site.
+        summary: "$42M, NTIA NOFO-1 (2024–present). Lead Open RAN integration and architecture (O-CU, O-DU, O-RU, core) at the ISU site."
 
       - name: ArMORED
-        funding: "$10M, NTIA NOFO-2"
-        start_date: 2025-02
-        end_date: present
-        summary: Energy efficiency study, test case design, and field deployment for new O-RU prototype with Skylark Wireless and Eridan Inc.
+        summary: "$10M, NTIA NOFO-2 (2025–present). Energy efficiency study, test case design, and field deployment for new O-RU prototypes with Skylark Wireless and Eridan."
 
     Awards:
       - title: ISU Graduate College Research Excellence Award
-        year: 2026
-      - title: ISU Graduate and Professional Student Senate Research Excellence Award
-        year: 2026
-      - title: Best Paper Award, IEEE NetSoft 2025
-        year: 2025
-      - title: Best Demo Award, MERIF 2024
-        year: 2024
-      - title: Best Paper Award, ACM WiNTECH 2023
-        year: 2023
-      - title: Best Paper Honorable Mention, IEEE FNWF 2023
-        year: 2023
-      - title: Gold Medal, best graduating student, NUST Pakistan
-        year: 2014
-      - title: Roll of Honor, NUST Islamabad Pakistan
-        year: 2014
+        date: 2026
+        awarder: Iowa State University
 
-    Technical Skills:
-      - category: Programming
-        items:
+      - title: GPSS Research Excellence Award
+        date: 2026
+        awarder: ISU Graduate and Professional Student Senate
+
+      - title: Best Paper Award
+        date: 2025
+        awarder: 11th IEEE International Conference on Network Softwarization (NetSoft)
+        summary: For "AraRACH: Enhancing NextG Random Access Reliability in Programmable Wireless Living Labs."
+
+      - title: Best Demo Award
+        date: 2024
+        awarder: Midscale Experimental Research Infrastructure Forum (MERIF)
+        summary: For "ARA PAWR: Enabling Wireless Experiments with Programmable COTS RAN and X-Haul Platforms."
+
+      - title: Best Paper Award
+        date: 2023
+        awarder: 17th ACM Workshop on Wireless Network Testbeds, Experimental Evaluation & Characterization (WiNTECH)
+        summary: For "AraMIMO: Programmable TVWS mMIMO Living Lab for Rural Wireless."
+
+      - title: Best Paper Honorable Mention
+        date: 2023
+        awarder: IEEE Future Networks World Forum (FNWF)
+        summary: For "Exploring Wireless Channels in Rural Areas: A Comprehensive Measurement Study."
+
+      - title: Gold Medal, Best Graduating Student
+        date: 2014
+        awarder: National University of Sciences and Technology (NUST), Pakistan
+
+      - title: Roll of Honor
+        date: 2014
+        awarder: NUST Islamabad, Pakistan
+
+    Skills:
+      - name: Programming
+        keywords:
           - Python
           - MATLAB
           - C++
-      - category: Wireless and RAN
-        items:
+
+      - name: Wireless and RAN
+        keywords:
           - LTE
           - 5G NR
           - O-RAN
@@ -141,40 +158,50 @@ cv:
           - OpenAirInterface
           - srsRAN
           - Skylark Wireless
-      - category: Networking and Protocols
-        items:
+
+      - name: Networking and Protocols
+        keywords:
           - TCP/IP
-          - BGP / OSPF / MPLS
-          - SDN, VPN, QoS
-          - VLAN, DHCP, DNS, NAT
-      - category: Tools and Platforms
-        items:
+          - BGP
+          - OSPF
+          - MPLS
+          - SDN
+          - VPN
+          - QoS
+          - VLAN
+          - DHCP
+          - DNS
+          - NAT
+
+      - name: Tools and Platforms
+        keywords:
           - OpenStack
-          - Docker / Kubernetes
+          - Docker
+          - Kubernetes
           - Ansible
-          - GitLab / CI-CD
-      - category: Hardware and Vendors
-        items:
-          - Juniper, Cisco, Huawei, Dell
-          - NI Ettus, Skylark Wireless
-      - category: Certifications
-        items:
+          - GitLab
+          - CI/CD
+
+      - name: Hardware and Vendors
+        keywords:
+          - Juniper
+          - Cisco
+          - Huawei
+          - Dell
+          - NI Ettus
+          - Skylark Wireless
+
+      - name: Certifications
+        keywords:
           - CCNA Route & Switch (2015)
           - CCNP Route & Switch
           - MCSE 2012
 
     Professional Service:
-      - role: Reviewer
-        venues:
-          - IEEE Transactions on Wireless Communications
-          - IEEE INFOCOM
-          - ACM IWQOS
-          - IEEE Communications Magazine
-          - International Journal of Computer and Telecommunications Networking
-          - SN Soft Computing Journal
-          - SN Computer Science Journal
-      - role: Member
-        venues:
-          - IEEE (since 2022)
-          - IEEE Communications Society (since 2022)
-          - ACM (since 2021)
+      - bullet: "**Reviewer** for IEEE Transactions on Wireless Communications, IEEE INFOCOM, ACM IWQOS, IEEE Communications Magazine, International Journal of Computer and Telecommunications Networking, SN Soft Computing Journal, and SN Computer Science Journal."
+
+      - bullet: "**Member** of IEEE (since 2022), IEEE Communications Society (since 2022), and ACM (since 2021)."
+
+      - bullet: "**Joint President**, Telecomm Society, NUST Pakistan (2013–2014)."
+
+      - bullet: "**Prefect**, Sports and Extracurricular Activities, NUST Pakistan (2013–2014)."

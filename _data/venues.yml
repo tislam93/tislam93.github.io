@@ -1,9 +1,52 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badge colors and links shown on the publications page.
+# Colors are chosen to suggest the publisher (IEEE blue, ACM red,
+# Elsevier orange, arXiv red, etc.) without being garish.
 
-"PhysRev":
-  url: https://journals.aps.org/
+# Elsevier
+"ComNet":
+  url: https://www.sciencedirect.com/journal/computer-networks
+  color: "#e87722"
 
-"Vision":
-  color: "#009f36"
+# IEEE conferences
+"MILCOM":
+  url: https://milcom2025.ieee-milcom.org/
+  color: "#00629b"
+"NetSoft":
+  url: https://netsoft2025.ieee-netsoft.org/
+  color: "#00629b"
+"ICNP":
+  url: https://icnp24.cs.ucr.edu/
+  color: "#00629b"
+"ICC":
+  url: https://icc2024.ieee-icc.org/
+  color: "#00629b"
+"INFOCOM":
+  url: https://infocom2024.ieee-infocom.org/
+  color: "#00629b"
+"FNWF":
+  url: https://fnwf2023.ieee.org/
+  color: "#00629b"
+"ISCC":
+  url: https://www.ieee-iscc.org/
+  color: "#00629b"
+
+# ACM venues
+"WiNTECH":
+  url: https://sigmobile.org/winnf/
+  color: "#0085ca"
+"MobiCom":
+  url: https://www.sigmobile.org/mobicom/
+  color: "#0085ca"
+"PEARC":
+  url: https://pearc.acm.org/
+  color: "#0085ca"
+
+# Workshops and forums
+"MERIF":
+  url: https://merif.ai/
+  color: "#5d2e8c"
+
+# Preprint
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
