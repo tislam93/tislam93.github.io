@@ -8,4 +8,4 @@ scholar_userid: TrCMVtUAAAAJ
 linkedin_username: taimoor-islam
 github_username: tislam93
 gitlab_username: tislam93
-rss_icon: true
+# rss_icon: true  # blog feed icon, off for now
