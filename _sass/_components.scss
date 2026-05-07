@@ -72,6 +72,28 @@ ul.task-list input[type="checkbox"] {
       margin: 0 0 2px 0;
     }
   }
+
+  .profile-socials {
+    text-align: center;
+    margin-top: 12px;
+    font-size: 1.4rem;
+
+    a {
+      color: var(--global-text-color-light);
+      margin: 0 6px;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
+    svg,
+    img {
+      width: 1.4rem;
+      height: 1.4rem;
+      vertical-align: middle;
+    }
+  }
 }
 
 .profile.float-right {
