@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ArMORED — a $10M NTIA project on energy-efficient mMIMO O-RAN — kicked off with **Skylark Wireless** and **Eridan Inc.**
+ArMORED, a $10M NTIA project on energy-efficient mMIMO O-RAN, kicked off with **Skylark Wireless** and **Eridan Inc.**

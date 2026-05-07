@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Three federally funded efforts I currently lead or co-lead, each a piece of the same problem — making next-generation wireless useful in the places that need it most.
 nav: true

@@ -16,11 +16,11 @@ permalink: /projects/armored/
 
 ## What it is
 
-Massive MIMO is one of the few wireless techniques that scales — but only if the radio units can hit aggressive power and cost targets. ArMORED is building a new generation of energy-efficient O-RU prototypes alongside Skylark Wireless and Eridan, then putting them through the kind of field measurements that determine whether a clever architecture survives contact with a real network. The energy story matters because mMIMO at scale is otherwise expensive enough — in watts, in heat, in TCO — to limit where it can be deployed.
+Massive MIMO is one of the few wireless techniques that scales, but only if the radio units can hit aggressive power and cost targets. ArMORED is building a new generation of energy-efficient O-RU prototypes alongside Skylark Wireless and Eridan, then putting them through the kind of field measurements that determine whether a clever architecture survives contact with a real network. The energy story matters because mMIMO at scale is otherwise expensive enough (in watts, in heat, in TCO) to limit where it can be deployed.
 
 ## What I do
 
-I lead the energy efficiency study — measurement methodology, test case design, and the comparative analysis across architectures. On the deployment side, I'm taking the new O-RU prototype and integrating it with the O-CU/O-DU we already run on ARA, then driving the field campaigns that will tell us how the new devices behave outside the lab. There's a tight loop here with ACCoRD: the integration tooling we built there is what makes these deployments possible at all.
+I lead the energy efficiency study: measurement methodology, test case design, and the comparative analysis across architectures. On the deployment side, I'm taking the new O-RU prototype and integrating it with the O-CU/O-DU we already run on ARA, then driving the field campaigns that will tell us how the new devices behave outside the lab. There's a tight loop here with ACCoRD: the integration tooling we built there is what makes these deployments possible at all.
 
 ## Why it matters
 
