@@ -4,41 +4,41 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-story",
-          title: "story",
+          title: "Story",
           description: "how I got here, and what I&#39;m trying to do",
           section: "Navigation",
           handler: () => {
             window.location.href = "/story/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Three federally funded efforts I currently lead or co-lead, each a piece of the same problem — making next-generation wireless useful in the places that need it most.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Peer-reviewed papers, demos, and preprints, in reverse chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "A web copy of my CV. The most up-to-date PDF is one click away — use the download button on the right.",
           section: "Navigation",
           handler: () => {
@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: "Why I started writing here",
         
-        description: "A short note on what this blog will be — and what it won&#39;t.",
+        description: "A short note on what this blog will be, and what it won&#39;t.",
         section: "Posts",
         handler: () => {
           
@@ -83,7 +83,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-armored-a-10m-ntia-project-on-energy-efficient-mmimo-o-ran-kicked-off-with-skylark-wireless-and-eridan-inc",
-          title: 'ArMORED — a $10M NTIA project on energy-efficient mMIMO O-RAN — kicked off...',
+          title: 'ArMORED, a $10M NTIA project on energy-efficient mMIMO O-RAN, kicked off with Skylark...',
           description: "",
           section: "News",},{id: "news-the-ara-wireless-living-lab-paper-appeared-in-computer-networks-it-documents-the-full-design-and-deployment-of-the-testbed",
           title: 'The ARA Wireless Living Lab paper appeared in Computer Networks. It documents the...',
@@ -91,8 +91,11 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-ararach-enhancing-nextg-random-access-reliability-won-the-best-paper-award-at-ieee-netsoft-2025",
           title: 'Our paper “AraRACH: Enhancing NextG Random Access Reliability” won the Best Paper Award...',
           description: "",
-          section: "News",},{id: "news-received-the-isu-graduate-college-research-excellence-award-and-the-gpss-research-excellence-award-for-2026",
-          title: 'Received the ISU Graduate College Research Excellence Award and the GPSS Research Excellence...',
+          section: "News",},{id: "news-received-the-gpss-research-excellence-award-for-2026-from-the-isu-graduate-and-professional-student-senate",
+          title: 'Received the GPSS Research Excellence Award for 2026 from the ISU Graduate and...',
+          description: "",
+          section: "News",},{id: "news-received-the-isu-graduate-college-research-excellence-award-for-2026",
+          title: 'Received the ISU Graduate College Research Excellence Award for 2026.',
           description: "",
           section: "News",},{id: "news-joined-wici-as-research-assistant-professor-continuing-work-on-open-ran-mmimo-and-rural-broadband-across-the-ara-accord-and-armored-projects",
           title: 'Joined WiCI as Research Assistant Professor. Continuing work on Open RAN, mMIMO, and...',
