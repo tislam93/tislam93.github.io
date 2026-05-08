@@ -2,7 +2,7 @@
 layout: page
 title: ACCoRD
 description: A $42M NTIA-funded effort to make Open RAN deployable in the real world
-img: assets/img/prof_pic.jpg
+img: assets/img/projects/accord.png
 importance: 2
 category: current
 related_publications: true

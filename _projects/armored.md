@@ -2,7 +2,7 @@
 layout: page
 title: ArMORED
 description: A $10M NTIA project on energy-efficient massive MIMO Open RAN
-img: assets/img/prof_pic.jpg
+img: assets/img/projects/armored-partners.png
 importance: 3
 category: current
 related_publications: true
@@ -13,6 +13,19 @@ permalink: /projects/armored/
 **Funding.** $10M, NTIA Public Wireless Supply Chain Innovation Fund (NOFO-2).
 **Partners.** Skylark Wireless, Eridan Inc., Iowa State University.
 **Full name.** Architecture for mMIMO Open RAN Energy-efficient Devices.
+
+<div class="row align-items-center mt-4 mb-4">
+  <div class="col-sm-6 text-center">
+    <a href="https://skylarkwireless.com/" target="_blank" rel="noopener">
+      {% include figure.liquid path="assets/img/projects/skylark.png" class="img-fluid" alt="Skylark Wireless" %}
+    </a>
+  </div>
+  <div class="col-sm-6 text-center">
+    <a href="https://eridan.io/" target="_blank" rel="noopener">
+      {% include figure.liquid path="assets/img/projects/eridan.png" class="img-fluid" alt="Eridan" %}
+    </a>
+  </div>
+</div>
 
 ## What it is
 

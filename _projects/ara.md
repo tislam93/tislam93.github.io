@@ -2,7 +2,7 @@
 layout: page
 title: ARA Wireless Living Lab
 description: A $16M NSF PAWR testbed for advanced wireless research and rural broadband
-img: assets/img/prof_pic.jpg
+img: assets/img/projects/ara.png
 importance: 1
 category: current
 related_publications: true
