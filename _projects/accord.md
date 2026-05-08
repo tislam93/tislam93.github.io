@@ -13,6 +13,14 @@ permalink: /projects/accord/
 **Funding.** $42M, NTIA Public Wireless Supply Chain Innovation Fund (NOFO-1).
 **Full name.** Acceleration of Compatibility and Commercialization for Open RAN Deployments.
 
+<div class="row align-items-center justify-content-center mt-4 mb-4">
+  <div class="col-sm-6 text-center">
+    <a href="https://accordconsortium.org/" target="_blank" rel="noopener">
+      {% include figure.liquid path="assets/img/projects/accord.png" class="img-fluid" alt="ACCoRD Consortium" %}
+    </a>
+  </div>
+</div>
+
 ## What it is
 
 ACCoRD is a multi-institution effort to build an Open RAN testing and certification pipeline that vendors, operators, and integrators can actually use. It's the kind of evaluation infrastructure that the Open RAN ecosystem has been missing. The premise is straightforward: open standards only deliver on their promise if you can verify that components from different vendors interoperate under realistic conditions. ACCoRD is building the labs, the test cases, and the integration know-how to make that happen.
