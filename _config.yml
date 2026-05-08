@@ -90,7 +90,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Field Notes # blog_name displayed at the top of /blog/
+blog_name: Taimoor Writes # blog_name displayed at the top of /blog/
 blog_description: Thinking out loud about wireless systems, rural broadband, and the work of connecting the people the network has missed.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
