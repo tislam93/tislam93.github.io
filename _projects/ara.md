@@ -10,7 +10,7 @@ permalink: /projects/ara/
 ---
 
 **Role.** Wireless network lead, 2021 – present.
-**Funding.** $16M, NSF Platforms for Advanced Wireless Research (PAWR).
+**Funding.** $19M, NSF Platforms for Advanced Wireless Research (PAWR).
 **Partners.** Iowa State University, USDA, partner farms and rural communities across central Iowa.
 
 ## What it is

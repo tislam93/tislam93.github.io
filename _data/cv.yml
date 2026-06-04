@@ -60,7 +60,7 @@ cv:
         start_date: "2021-01"
         end_date: "2026-05"
         highlights:
-          - "Designed, implemented, and deployed the $16M ARA wireless living lab end to end, including network planning, equipment selection, vendor coordination, and field rollout."
+          - "Designed, implemented, and deployed the $19M ARA wireless living lab end to end, including network planning, equipment selection, vendor coordination, and field rollout."
           - "Lead member at ISU on the $42M NTIA-funded ACCoRD Open RAN project, driving integration and architecture work across O-CU, O-DU, O-RU, and core."
           - "Co-led the $10M NTIA-funded ArMORED project on energy-efficient mMIMO O-RAN with Skylark Wireless and Eridan."
           - "Led the Skylark Wireless mMIMO deployment and built a publicly available API repo (AraMIMO) for PHY/MAC research."
@@ -97,7 +97,7 @@ cv:
 
     Projects:
       - name: ARA Wireless Living Lab
-        summary: "$16M, NSF PAWR (2021-present). Designed, implemented, and deployed the testbed serving advanced wireless research and rural communities."
+        summary: "$19M, NSF PAWR (2021-present). Designed, implemented, and deployed the testbed serving advanced wireless research and rural communities."
 
       - name: ACCoRD
         summary: "$42M, NTIA NOFO-1 (2024-present). Lead Open RAN integration and architecture (O-CU, O-DU, O-RU, core) at the ISU site."
