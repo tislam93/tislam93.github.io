@@ -5,7 +5,8 @@ permalink: /
 subtitle: >
   Research Assistant Professor<br>
   <a href="https://wici.iastate.edu/">Center for Wireless, Communities and Innovation</a><br>
-  Department of Electrical and Computer Engineering, Iowa State University
+  Department of Electrical and Computer Engineering<br>
+  Iowa State University
 
 profile:
   align: right
