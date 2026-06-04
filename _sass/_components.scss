@@ -318,3 +318,12 @@ ul.task-list input[type="checkbox"] {
     line-height: 1.3;
   }
 }
+
+// Footer page-view counter (GoatCounter): force all children to use the footer
+// text color, since al-folio's global typography rules color span/i elements
+// to the page text color regardless of inherited color.
+.page-views,
+.page-views i,
+.page-views span {
+  color: var(--global-footer-text-color) !important;
+}

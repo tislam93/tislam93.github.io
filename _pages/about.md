@@ -36,7 +36,7 @@ Before the PhD, I spent six years in telecom, planning, deploying, and troublesh
 
 I care about the roughly three billion people still on the wrong side of the connectivity gap, and I think the next decade of wireless research has to take that seriously. Most of my time goes into making the systems we build genuinely useful in places where the network has to keep working, not where the spreadsheets say it should.
 
-## At a Glance
+## By the Numbers
 
 <div class="row at-a-glance text-center mt-3 mb-4">
   <div class="col-6 col-md-3 mb-3">
