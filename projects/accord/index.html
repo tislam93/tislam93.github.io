@@ -32,13 +32,18 @@
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Boateng, Joshua and Zhang, Tianyi and Zu, Guoying and Islam, Taimoor Ul and others}</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the IEEE International Conference on Communications (ICC)}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span>
-<span class="p">}</span></code></pre></figure> </div> </div> </div> </li></ol> </article> <h2>References</h2> <div class="publications"> </div> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Taimoor Ul Islam. © Taimoor Ul Islam. Built with <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted on <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. · <span class="page-views"> Total page views: <span id="goatcounter-total" title="Tracked by GoatCounter">…</span> </span> <script>
+<span class="p">}</span></code></pre></figure> </div> </div> </div> </li></ol> </article> <h2>References</h2> <div class="publications"> </div> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Taimoor Ul Islam. © Taimoor Ul Islam. Built with <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted on <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Last updated: June 04, 2026. <span class="page-views" id="goatcounter-views" style="display:none"> · Total page views: <span id="goatcounter-total" title="Tracked by GoatCounter"></span> </span> <script>
     (function () {
       fetch("https://tislam93.goatcounter.com/counter/TOTAL.json")
-        .then(function (r) { return r.json(); })
+        .then(function (r) { return r.ok ? r.json() : null; })
         .then(function (d) {
+          if (!d || !d.count) return;
           var el = document.getElementById("goatcounter-total");
-          if (el && d && d.count) el.textContent = d.count;
+          var wrap = document.getElementById("goatcounter-views");
+          if (el && wrap) {
+            el.textContent = d.count;
+            wrap.style.display = "";
+          }
         })
         .catch(function () {});
     })();
