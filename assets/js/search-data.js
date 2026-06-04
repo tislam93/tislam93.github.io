@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-addressing-the-digital-divide-from-iowa-to-pakistan",
+        },{id: "post-broadband-beyond-the-prairie",
+        
+          title: "Broadband beyond the prairie",
+        
+        description: "A note on a Foundation Forward magazine piece on the ARA project, and what it surfaced about my own connection to the rural broadband mission.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/broadband-beyond-the-prairie/";
+          
+        },
+      },{id: "post-addressing-the-digital-divide-from-iowa-to-pakistan",
         
           title: "Addressing the digital divide from Iowa to Pakistan",
         
