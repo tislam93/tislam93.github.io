@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-addressing-the-digital-divide-from-iowa-to-pakistan",
+        
+          title: "Addressing the digital divide from Iowa to Pakistan",
+        
+        description: "A note on a College of Engineering piece about my work on ARA, and what brought me here.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/iowa-to-pakistan/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
