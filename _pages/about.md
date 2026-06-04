@@ -10,7 +10,7 @@ subtitle: >
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   show_social: true
 
 selected_papers: true
@@ -34,3 +34,24 @@ I lead wireless research at WiCI, where I help drive three federally funded effo
 Before the PhD, I spent six years in telecom, planning, deploying, and troubleshooting networks for hundreds of thousands of customers in Pakistan. That work is where the rural broadband mission started, and you can read the longer version on the [Story](/story/) page.
 
 I care about the roughly three billion people still on the wrong side of the connectivity gap, and I think the next decade of wireless research has to take that seriously. Most of my time goes into making the systems we build genuinely useful in places where the network has to keep working, not where the spreadsheets say it should.
+
+## At a Glance
+
+<div class="row at-a-glance text-center mt-3 mb-4">
+  <div class="col-6 col-md-3 mb-3">
+    <div class="stat-number">$71M+</div>
+    <div class="stat-label">Funded Projects Involved</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div class="stat-number">16</div>
+    <div class="stat-label">Publications</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div class="stat-number">5+</div>
+    <div class="stat-label">Best Paper / Demo Awards</div>
+  </div>
+  <div class="col-6 col-md-3 mb-3">
+    <div class="stat-number">10+</div>
+    <div class="stat-label">Years Building Systems</div>
+  </div>
+</div>

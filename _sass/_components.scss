@@ -88,7 +88,7 @@ ul.task-list input[type="checkbox"] {
     justify-content: center;
     align-items: center;
     gap: 0.6rem;
-    margin-top: 12px;
+    margin-top: 16px;
     font-size: 1.25rem;
     white-space: nowrap;
 
@@ -299,4 +299,22 @@ ul.task-list input[type="checkbox"] {
 
 .d2h-diff-table {
   position: relative;
+}
+
+// "At a Glance" stats block on the homepage
+.at-a-glance {
+  .stat-number {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--global-theme-color);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+  }
+
+  .stat-label {
+    font-size: 0.92rem;
+    color: var(--global-text-color-light);
+    margin-top: 0.35rem;
+    line-height: 1.3;
+  }
 }
