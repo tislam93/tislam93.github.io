@@ -25,6 +25,18 @@ body {
   }
 }
 
+// Breathing room between the page header (name + subtitle) and the bio/content below.
+// The subtitle ends close to the first paragraph by default, which makes them read as one block.
+.post-header {
+  margin-bottom: 2rem;
+
+  .desc {
+    margin-top: 0.4rem;
+    margin-bottom: 0;
+    line-height: 1.5;
+  }
+}
+
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
   padding-top: 57px;
