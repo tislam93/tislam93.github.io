@@ -9,18 +9,21 @@
   {% if site.last_updated %}
     Last updated: {{ 'now' | date: '%B %d, %Y' }}.
   {% endif %}
-  &middot;
-  <span class="page-views">
-    Total page views:
-    <span id="goatcounter-total" title="Tracked by GoatCounter">…</span>
+  <span class="page-views" id="goatcounter-views" style="display:none">
+    &middot; Total page views: <span id="goatcounter-total" title="Tracked by GoatCounter"></span>
   </span>
   <script>
     (function () {
       fetch("https://tislam93.goatcounter.com/counter/TOTAL.json")
-        .then(function (r) { return r.json(); })
+        .then(function (r) { return r.ok ? r.json() : null; })
         .then(function (d) {
+          if (!d || !d.count) return;
           var el = document.getElementById("goatcounter-total");
-          if (el && d && d.count) el.textContent = d.count;
+          var wrap = document.getElementById("goatcounter-views");
+          if (el && wrap) {
+            el.textContent = d.count;
+            wrap.style.display = "";
+          }
         })
         .catch(function () {});
     })();
