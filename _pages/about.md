@@ -34,7 +34,7 @@ I lead wireless research at WiCI, where I help drive three federally funded effo
 
 Before the PhD, I spent six years in telecom, planning, deploying, and troubleshooting networks for hundreds of thousands of customers in Pakistan. That work is where the rural broadband mission started, and you can read the longer version on the [Story](/story/) page.
 
-I care about the roughly three billion people still on the wrong side of the connectivity gap, and I think the next decade of wireless research has to take that seriously. Most of my time goes into making the systems we build genuinely useful in places where the network has to keep working, not where the spreadsheets say it should.
+I care about the roughly three billion people still on the wrong side of the connectivity gap, and I think the next decade of wireless research has to take that seriously.
 
 ## By the Numbers
 
