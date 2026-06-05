@@ -5,7 +5,7 @@ description: A $10M NTIA project on energy-efficient massive MIMO Open RAN
 img: assets/img/projects/armored-partners.png
 importance: 3
 category: current
-related_publications: true
+related_publications: false
 permalink: /projects/armored/
 ---
 
@@ -38,7 +38,3 @@ I lead the energy efficiency study: measurement methodology, test case design, a
 ## Why it matters
 
 If energy-efficient mMIMO O-RUs work, they unlock rural and underserved deployments where a power budget can be the difference between coverage and no coverage. That's the line I'm trying to push.
-
-## Selected publications
-
-{% bibliography --query @*[key^=islam2023aramimo]|@*[key^=islam2025ara] %}

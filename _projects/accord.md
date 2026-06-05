@@ -5,7 +5,7 @@ description: A $42M NTIA-funded effort to make Open RAN deployable in the real w
 img: assets/img/projects/accord.png
 importance: 2
 category: current
-related_publications: true
+related_publications: false
 permalink: /projects/accord/
 ---
 
@@ -35,4 +35,4 @@ Open RAN gets debated in the abstract more often than it gets tested in concrete
 
 ## Selected publications
 
-{% bibliography --query @*[key^=zu2025milcom]|@*[key^=boateng2025ararach]|@*[key^=boateng2024arasdr] %}
+{% bibliography --query @*[key^=zhang2024arao] %}

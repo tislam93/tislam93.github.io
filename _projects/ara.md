@@ -5,7 +5,7 @@ description: A $16M NSF PAWR testbed for advanced wireless research and rural br
 img: assets/img/projects/ara.png
 importance: 1
 category: current
-related_publications: true
+related_publications: false
 permalink: /projects/ara/
 ---
 
@@ -31,4 +31,4 @@ The work behind ARA has won three Best Paper / Demo / Honorable Mention awards a
 
 ## Selected publications
 
-{% bibliography --query @*[key^=islam2025ara]|@*[key^=islam2023arapawr]|@*[key^=islam2024merif]|@*[key^=islam2024icnp]|@*[key^=islam2023aramimo]|@*[key^=zhang2024arao] %}
+{% bibliography --query @*[key^=islam2025ara]|@*[key^=islam2023arapawr]|@*[key^=islam2024merif]|@*[key^=islam2024icnp]|@*[key^=islam2023aramimo] %}
