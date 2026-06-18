@@ -96,7 +96,7 @@ ninja.data = [{
               window.location.href = "/projects/accord/";
             },},{id: "projects-ara-wireless-living-lab",
           title: 'ARA Wireless Living Lab',
-          description: "A $16M NSF PAWR testbed for advanced wireless research and rural broadband",
+          description: "A $19M NSF PAWR testbed for advanced wireless research and rural broadband",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ara/";
             },},{id: "projects-armored",
