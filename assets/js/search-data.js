@@ -66,12 +66,7 @@ ninja.data = [{
             window.location.href = "/blog/2023/iowa-to-pakistan/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-armored-a-10m-ntia-project-on-energy-efficient-mmimo-o-ran-kicked-off-with-skylark-wireless-and-eridan-inc",
+      },{id: "news-armored-a-10m-ntia-project-on-energy-efficient-mmimo-o-ran-kicked-off-with-skylark-wireless-and-eridan-inc",
           title: 'ArMORED, a $10M NTIA project on energy-efficient mMIMO O-RAN, kicked off with Skylark...',
           description: "",
           section: "News",},{id: "news-the-ara-wireless-living-lab-paper-appeared-in-computer-networks-it-documents-the-full-design-and-deployment-of-the-testbed",
@@ -104,16 +99,6 @@ ninja.data = [{
           description: "A $10M NTIA project on energy-efficient massive MIMO Open RAN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/armored/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
