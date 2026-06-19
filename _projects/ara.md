@@ -27,7 +27,7 @@ Most wireless research happens in lab conditions or in dense urban deployments. 
 
 ## Recognition
 
-The work behind ARA has won three Best Paper / Demo / Honorable Mention awards at IEEE NetSoft 2025, ACM WiNTECH 2023, MERIF 2024, and IEEE FNWF 2023. See the [publications](/publications/) page for the full list.
+The work behind ARA has won four Best Paper / Demo / Honorable Mention awards at IEEE NetSoft 2025, ACM WiNTECH 2023, MERIF 2024, and IEEE FNWF 2023. See the [publications](/publications/) page for the full list.
 
 ## Selected publications
 

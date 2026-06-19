@@ -44,7 +44,7 @@ I care about the roughly three billion people still on the wrong side of the con
     <div class="stat-label">Funded Projects Involved</div>
   </div>
   <div class="col-6 col-md-3 mb-3">
-    <div class="stat-number">15</div>
+    <div class="stat-number">{{ site.publications_count }}</div>
     <div class="stat-label">Publications</div>
   </div>
   <div class="col-6 col-md-3 mb-3">
