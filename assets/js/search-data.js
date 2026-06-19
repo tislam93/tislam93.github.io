@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "A web copy of my CV. The most up-to-date PDF is one click away — use the download button on the right.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "post-broadband-beyond-the-prairie",
         
           title: "Broadband beyond the prairie",
